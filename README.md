@@ -15,5 +15,9 @@
     - If saving rate between 15 % to less than 20% than print "Not Bad"
     - If saving rate between 10% to lesst than 15% than print "Satisfactory"
     - If saving rate less than 10% than print "Not Satisfactory" </h5></li>
+
+  <li> <h5>sum and average of array</h5></li>
+  <li> <h5>Fibonacci series using array</h5></li>
+  <li> <h5>Linear Search</h5></li>
    
 </ol>
