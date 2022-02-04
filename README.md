@@ -7,4 +7,13 @@
     <li> <h5>Remove Duplicate Element From a List</h5></li>
     <li> <h5>Reverse a List without built in function</h5></li>
     <li> <h5>Check whether a number is prime or not</h5></li>
+    <li> <h5>Multiplication of a digit</h5></li>
+    <li> <h5>Counting Digit</h5></li>
+    <li> <h5> Create a function that calculate monthly saving rate. Function takes two perameters one is expense the other is income.
+    - If saving rate is 25% or more than print "Good"
+    - If saving rate between 20% to less than 25 % than print "Better"
+    - If saving rate between 15 % to less than 20% than print "Not Bad"
+    - If saving rate between 10% to lesst than 15% than print "Satisfactory"
+    - If saving rate less than 10% than print "Not Satisfactory" </h5></li>
+   
 </ol>
