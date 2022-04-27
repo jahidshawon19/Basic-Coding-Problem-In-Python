@@ -19,5 +19,7 @@
   <li> <h5>sum and average of array</h5></li>
   <li> <h5>Fibonacci series using array</h5></li>
   <li> <h5>Linear Search</h5></li>
+  <li> <h5>Find out common letters between two strings</h5></li>
+ 
    
 </ol>
